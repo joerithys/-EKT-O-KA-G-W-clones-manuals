@@ -1,5 +1,7 @@
 Translations of the games
 
+ЭЛEKTРOНИKA = Elektronika
+
 1) Ну Погоди ( Nu Pogodi, Wolf catches eggs )
 2) Микки Маус ( Mikky Mouse catches eggs )
 3) Охота ( Fooling, hunting )
