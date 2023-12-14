@@ -3,7 +3,7 @@ Translations of the games
 ЭЛEKTРOНИKA = Elektronika
 
 1) Ну Погоди ( Nu Pogodi, means Well, Just You Wait! = Wolf catches eggs )
-2) Микки Маус ( Mikky Mouse = Mikky Mouse catches eggs )
+2) Микки Маус ( Mickey Mouse = Mickey Mouse catches eggs )
 3) Охота ( Fooling, hunting )
 4) Цирк ( Circus )
 5) Морской бой ( Sea fight )
